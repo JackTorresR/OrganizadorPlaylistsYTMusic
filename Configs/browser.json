@@ -1,0 +1,20 @@
+{
+  "accept": "*/*",
+  "priority": "u=1, i",
+  "x-goog-authuser": "0",
+  "content-encoding": "gzip",
+  "x-client-data": "CMOIywE=",
+  "x-youtube-client-name": "67",
+  "cookie": "NAO_E_AQUI_QUE_MUDA",
+  "accept-encoding": "gzip, deflate",
+  "content-type": "application/json",
+  "origin": "https://music.youtube.com",
+  "authorization": "NAO_E_AQUI_QUE_MUDA",
+  "x-origin": "https://music.youtube.com",
+  "x-youtube-bootstrap-logged-in": "true",
+  "x-goog-visitor-id": "NAO_E_AQUI_QUE_MUDA",
+  "x-youtube-client-version": "1.20260913.16.00",
+  "accept-language": "en-US,en;q=0.9,pt-BR;q=0.8,pt;q=0.7,id;q=0.6",
+  "referer": "https://music.youtube.com/playlist?list=PLREPTQ1EhZn6_iUgoqksUdfVKUI1-cKa3",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0"
+}

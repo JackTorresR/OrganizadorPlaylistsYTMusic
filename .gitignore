@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Autenticação
+Configs/.env
+
+# Arquivos gerados pelos scripts
+Scripts/Resultado/
+Scripts/Backups/
