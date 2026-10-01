@@ -446,6 +446,10 @@ def reorganizar_playlist(
 ):
     progresso = carregar_progresso()
 
+    if progresso and progresso.get("status") == "CONCLUIDO":
+        limpar_progresso()
+        progresso = None
+
     total = len(
         musicas_desejadas
     )
@@ -548,6 +552,7 @@ def executar_organizacao(
     musicas,
     musicas_ordenadas
 ):
+    limpar_progresso()
     criar_backup(
         musicas
     )
